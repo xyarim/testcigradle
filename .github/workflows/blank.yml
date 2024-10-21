@@ -48,6 +48,8 @@ jobs:
             cmake --version
             which cmake
             ls /usr/local/bin/cmake
+            ls -la /usr/local/bin/cmake
             /usr/local/bin/cmake --version
+            
 
       
